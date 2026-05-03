@@ -1,0 +1,830 @@
+{
+  "songs": [
+    {
+      "id": "pragmatism",
+      "title_localized": {
+        "en": "PRAGMATISM -RESURRECTION-"
+      },
+      "artist": "Laur",
+      "bpm": "174",
+      "bpm_base": 174,
+      "set": "pragmatism",
+      "purchase": "",
+      "audioPreview": 31030,
+      "audioPreviewEnd": 49650,
+      "side": 1,
+      "bg": "vs_conflict",
+      "date": 1487980817,
+      "version": "1.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 11
+        }
+      ]
+    },
+    {
+      "id": "ifi",
+      "title_localized": {
+        "en": "#1f1e33"
+      },
+      "artist": "かめりあ(EDP)",
+      "bpm": "181",
+      "bpm_base": 181,
+      "set": "ifi",
+      "purchase": "",
+      "audioPreview": 51560,
+      "audioPreviewEnd": 66540,
+      "side": 1,
+      "bg": "vs_conflict",
+      "date": 1553126405,
+      "version": "1.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 11
+        }
+      ]
+    },
+    {
+      "id": "grievouslady",
+      "title_localized": {
+        "en": "Grievous Lady"
+      },
+      "artist": "Team Grimoire vs Laur",
+      "bpm": "210",
+      "bpm_base": 210,
+      "set": "grievouslady",
+      "purchase": "",
+      "audioPreview": 83530,
+      "audioPreviewEnd": 102350,
+      "side": 1,
+      "bg": "vs_conflict",
+      "date": 1509667208,
+      "version": "1.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 11
+        }
+      ]
+    },
+    {
+      "id": "fractureray",
+      "title_localized": {
+        "en": "Fracture Ray"
+      },
+      "artist": "Sakuzyo",
+      "bpm": "200",
+      "bpm_base": 200,
+      "set": "fractureray",
+      "purchase": "",
+      "audioPreview": 6000,
+      "audioPreviewEnd": 34800,
+      "side": 1,
+      "bg": "vs_conflict",
+      "date": 1531699208,
+      "version": "1.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 11
+        }
+      ]
+    },
+    {
+      "id": "viciousheroism",
+      "title_localized": {
+        "en": "Vicious [ANTi] Heroism"
+      },
+      "artist": "Kobaryo",
+      "bpm": "271",
+      "bpm_base": 271,
+      "set": "viciousheroism",
+      "purchase": "",
+      "audioPreview": 51560,
+      "audioPreviewEnd": 66540,
+      "side": 1,
+      "bg": "vs_conflict",
+      "bg_inverse": "vs_conflict",
+      "date": 1553126405,
+      "version": "1.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 11
+        }
+      ]
+    },
+    {
+      "id": "saikyostronger",
+      "title_localized": {
+        "en": "SAIKYO STRONGER",
+        "ja": "最強STRONGER"
+      },
+      "artist": "REDALiCE vs USAO",
+      "bpm": "205",
+      "bpm_base": 205,
+      "set": "saikyostronger",
+      "purchase": "",
+      "audioPreview": 75800,
+      "audioPreviewEnd": 94240,
+      "side": 1,
+      "bg": "vs_conflict",
+      "date": 1579478403,
+      "version": "1.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 11
+        }
+      ]
+    },
+    {
+      "id": "bftempestissimo",
+      "title_localized": {
+        "en": "Tempestissimo"
+      },
+      "artist": "t+pazolite",
+      "bpm": "231",
+      "bpm_base": 231,
+      "set": "bftempestissimo",
+      "purchase": "",
+      "audioPreview": 1000,
+      "audioPreviewEnd": 17660,
+      "side": 1,
+      "bg": "vs_conflict",
+      "date": 1590537605,
+      "version": "1.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 11
+        }
+      ]
+    },
+    {
+      "id": "aegleseeker",
+      "title_localized": {
+        "en": "Aegleseeker"
+      },
+      "artist": "Silentroom vs Frums",
+      "bpm": "234",
+      "bpm_base": 234,
+      "set": "aegleseeker",
+      "purchase": "",
+      "audioPreview": 16910,
+      "audioPreviewEnd": 33830,
+      "side": 1,
+      "bg": "vs_conflict",
+      "date": 1620691204,
+      "version": "1.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 11
+        }
+      ]
+    },
+    {
+      "id": "fvworldender",
+      "title_localized": {
+        "en": "World Ender",
+        "ja": "魔王"
+      },
+      "artist": "sasakure.UK × TJ.hangneil",
+      "bpm": "190-280",
+      "bpm_base": 280,
+      "set": "fvworldender",
+      "purchase": "",
+      "audioPreview": 72070,
+      "audioPreviewEnd": 90970,
+      "side": 1,
+      "bg": "vs_conflict",
+      "bg_inverse": "vs_conflict",
+      "date": 1657152006,
+      "version": "1.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 11
+        }
+      ]
+    },
+    {
+      "id": "fvpentiment",
+      "title_localized": {
+        "en": "Pentiment"
+      },
+      "artist": "Nothing But Requiem with Museo",
+      "bpm": "200-222",
+      "bpm_base": 222,
+      "set": "fvpentiment",
+      "purchase": "",
+      "audioPreview": 31340,
+      "audioPreviewEnd": 48600,
+      "side": 1,
+      "bg": "vs_conflict",
+      "date": 1657152007,
+      "version": "1.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 11
+        }
+      ]
+    },
+    {
+      "id": "fvarcanaeden",
+      "title_localized": {
+        "en": "Arcana Eden"
+      },
+      "artist": "Team Grimoire vs Sakuzyo vs Laur",
+      "bpm": "211",
+      "bpm_base": 211,
+      "set": "fvarcanaeden",
+      "purchase": "",
+      "audioPreview": 6220,
+      "audioPreviewEnd": 25000,
+      "side": 1,
+      "bg": "vs_conflict",
+      "date": 1657152008,
+      "version": "1.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 11
+        }
+      ]
+    },
+    {
+      "id": "fvtestify",
+      "title_localized": {
+        "en": "Testify"
+      },
+      "artist": "void (Mournfinale) feat. 星熊南巫",
+      "bpm": "178",
+      "bpm_base": 178,
+      "set": "fvtestify",
+      "purchase": "",
+      "audioPreview": 66067,
+      "audioPreviewEnd": 86629,
+      "side": 1,
+      "bg": "vs_conflict",
+      "date": 1657152009,
+      "version": "1.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 11
+        }
+      ]
+    },
+    {
+      "id": "lamia",
+      "title_localized": {
+        "en": "LAMIA"
+      },
+      "artist": "BlackY",
+      "bpm": "199",
+      "bpm_base": 199,
+      "set": "lamia",
+      "purchase": "",
+      "audioPreview": 32560,
+      "audioPreviewEnd": 51860,
+      "side": 1,
+      "bg": "vs_conflict",
+      "date": 1664409604,
+      "version": "1.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 11
+        }
+      ]
+    },
+    {
+      "id": "abstrusedilemma",
+      "title_localized": {
+        "en": "Abstruse Dilemma"
+      },
+      "artist": "Ashrount vs. 打打だいず",
+      "bpm": "216",
+      "bpm_base": 216,
+      "set": "abstrusedilemma",
+      "purchase": "",
+      "audioPreview": 19900,
+      "audioPreviewEnd": 43330,
+      "side": 1,
+      "bg": "vs_conflict",
+      "date": 1692230406,
+      "version": "1.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 11
+        }
+      ]
+    },
+    {
+      "id": "arghena",
+      "title_localized": {
+        "en": "Arghena"
+      },
+      "artist": "Feryquitous vs Laur",
+      "bpm": "185",
+      "bpm_base": 185,
+      "set": "arghena",
+      "purchase": "",
+      "audioPreview": 73945,
+      "audioPreviewEnd": 94705,
+      "side": 1,
+      "bg": "vs_conflict",
+      "bg_inverse": "vs_conflict",
+      "date": 1695772808,
+      "version": "1.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 11
+        }
+      ]
+    },
+    {
+      "id": "alterego",
+      "title_localized": {
+        "en": "ALTER EGO"
+      },
+      "artist": "Yuta Imai vs Qlarabelle",
+      "bpm": "195",
+      "bpm_base": 195,
+      "set": "alterego",
+      "purchase": "",
+      "audioPreview": 71354,
+      "audioPreviewEnd": 116967,
+      "side": 1,
+      "bg": "vs_conflict",
+      "bg_inverse": "vs_conflict",
+      "date": 1722297606,
+      "version": "1.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 11
+        }
+      ]
+    },
+    {
+      "id": "ab",
+      "title_localized": {
+        "en": "Lament Rain"
+      },
+      "artist": "Ashrount vs. 打打だいず",
+      "bpm": "200",
+      "bpm_base": 200,
+      "set": "ab",
+      "purchase": "",
+      "audioPreview": 38000,
+      "audioPreviewEnd": 55000,
+      "side": 1,
+      "bg": "vs_conflict",
+      "bg_inverse": "vs_conflict",
+      "date": 1732147209,
+      "version": "1.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 11
+        }
+      ]
+    },
+    {
+      "id": "abc",
+      "title_localized": {
+        "en": "Designant."
+      },
+      "artist": "Designant",
+      "bpm": "200",
+      "bpm_base": 200,
+      "set": "abc",
+      "purchase": "",
+      "audioPreview": 38000,
+      "audioPreviewEnd": 55000,
+      "side": 1,
+      "bg": "vs_conflict",
+      "bg_inverse": "vs_conflict",
+      "date": 1732147210,
+      "version": "1.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 11
+        }
+      ]
+    },
+    {
+      "id": "astralquant",
+      "title_localized": {
+        "en": "Astral Quantization"
+      },
+      "artist": "Dj Grimoire",
+      "bpm": "185",
+      "bpm_base": 185,
+      "set": "astralquant",
+      "purchase": "",
+      "audioPreview": 38000,
+      "audioPreviewEnd": 55000,
+      "side": 1,
+      "bg": "vs_conflict",
+      "bg_inverse": "vs_conflict",
+      "date": 1732147211,
+      "version": "1.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 11
+        }
+      ]
+    },
+    {
+      "id": "aethercrest",
+      "title_localized": {
+        "en": "Aether Crest: Astral"
+      },
+      "artist": "void (Mournfinale) × 水野健治",
+      "bpm": "180",
+      "bpm_base": 180,
+      "set": "aethercrest",
+      "purchase": "",
+      "audioPreview": 37010,
+      "audioPreviewEnd": 55790,
+      "side": 1,
+      "bg": "vs_conflict",
+      "bg_inverse": "vs_conflict",
+      "date": 1740700800,
+      "version": "1.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 11
+        }
+      ]
+    },
+    {
+      "id": "undyingmacula",
+      "title_localized": {
+        "en": "Undying Macula"
+      },
+      "artist": "Ashrount",
+      "bpm": "189",
+      "bpm_base": 189,
+      "set": "undyingmacula",
+      "purchase": "",
+      "audioPreview": 37010,
+      "audioPreviewEnd": 55790,
+      "side": 1,
+      "bg": "vs_conflict",
+      "bg_inverse": "vs_conflict",
+      "date": 1740700800,
+      "version": "1.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 11
+        }
+      ]
+    },
+    {
+      "id": "extradimensional",
+      "title_localized": {
+        "en": "Extradimensional Cosmic Phenomenon"
+      },
+      "artist": "TAKIO feat. つぐ",
+      "bpm": "234",
+      "bpm_base": 234,
+      "set": "extradimensional",
+      "purchase": "",
+      "audioPreview": 37010,
+      "audioPreviewEnd": 55790,
+      "side": 1,
+      "bg": "vs_conflict",
+      "bg_inverse": "vs_conflict",
+      "date": 1740700800,
+      "version": "1.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 11
+        }
+      ]
+    }
+  ]
+}
